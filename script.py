@@ -1,0 +1,1 @@
+print("predlozhenie na python python python python")
